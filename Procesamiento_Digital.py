@@ -2,7 +2,7 @@
 """
 Created on Thu May 13 23:31:45 2021
 
-@author: Zenon
+@author: Zenon Saavedra
 """
 #import commpy
 import os
