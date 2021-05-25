@@ -1,6 +1,6 @@
 #==============================================================================
 #Titulo: Parametrizar_Radio_Enlace
-#Autor: Zenon Saavedra 
+#Autor: Zenon MARCELO Saavedra 
 #==============================================================================     
 """
 Parametriza las magnitudes presentes en el proceso Transmision-Recepcion:
